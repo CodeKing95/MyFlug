@@ -1,4 +1,3 @@
 # AirStar
-Learn how to create a fully responsive Tour &amp; Travel website design from scratch using HTML, CSS, and JavaScript!
-"# sky1" 
-"# flug" 
+This is an Airline Management System project, built entirley in full-stack development.
+
