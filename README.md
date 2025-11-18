@@ -15,5 +15,6 @@ This was one of the project that I have built during my university web developme
 Here is what you can do with AirStar:
 - **Login/Register**: You can register as a passenger/or you can login with your username and password.
 - **Booking**: You can navigate through the website and can make a plane ticket.
-- **Departure From**:
+- **Departure From**: You can choose from where you would like to departure.
+- **Destination To**: You then choose your destination such as country and city.
 
